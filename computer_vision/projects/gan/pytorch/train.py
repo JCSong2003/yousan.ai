@@ -51,7 +51,7 @@ torch.manual_seed(manualSeed)
 
 ## 基本参数配置
 # 数据集所在路径
-dataroot = "mouth/"
+dataroot = "../../../../computer_vision/datas/mouth"
 # 数据加载的进程数
 workers = 0
 # Batch size 大小
